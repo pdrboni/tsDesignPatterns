@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pdrboni/tsDesignPatterns.git"
+  },
+  "author": "Pedro B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdrboni/tsDesignPatterns/issues"
+  },
+  "homepage": "https://github.com/pdrboni/tsDesignPatterns#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
