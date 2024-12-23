@@ -8,7 +8,7 @@ export class ImageEditor {
     private fileFormat: string,
   ) {}
 
-  converFormat(format: string): void {
+  convertFormat(format: string): void {
     this.fileFormat = format;
     this.filePath = this.filePath.split('.').slice(0, -1).join('');
     this.filePath += '.' + format;
